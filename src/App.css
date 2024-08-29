@@ -40,3 +40,10 @@
 .read-the-docs {
   color: #888;
 }
+
+
+
+.terminee {
+  text-decoration: line-through;
+  color: gray;
+}
